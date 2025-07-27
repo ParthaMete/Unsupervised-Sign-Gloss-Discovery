@@ -158,7 +158,7 @@ The project's output includes various visualizations that demonstrate the effect
   * **Elbow Method Plots**: Graphs showing the inertia vs. number of clusters for latent spaces, used to determine optimal K-Means parameters.
   * **Cluster Center Visualizations**: Plots of representative skeletons for various cluster centers, illustrating the distinct poses and hand shapes learned by the clustering process.
   * **HMM Latent State Timelines**: Visual timelines for individual videos showing the sequence of inferred hidden states, which represent the system's unsupervised segmentation of gloss-like units. Examples demonstrate how similar glosses across different videos are mapped to similar latent state patterns.
-  * **Dominant State Analysis**: Bar charts illustrating the most common dominant latent states (based on longest continuous runs) across the entire dataset, providing insights into frequently occurring sign components.
+ 
 
 ## Limitations
 
